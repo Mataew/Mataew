@@ -1,8 +1,11 @@
-### Используемый стэк
+# Здравствуйте, я Умар!
+
+### Я Frontend разработчик, вот технологии которые я использую: ###
+___
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=orange" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img alt="WebPack" src="https://img.shields.io/badge/webpack-111111?style=for-the-badge&logo=Webpack" /> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
@@ -17,10 +20,12 @@
 <img alt="Material UI" src="https://img.shields.io/badge/-MaterialUI-blue?style=for-the-badge&logo=materialUI&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-430098?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="WebPack" src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman" />
+  <img alt="WebPack" src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman=white" />
 </p>
 
+___
+
 ### Свзяь со мной :
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/boogooz)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/mataev.umar/)
-[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)](https://wa.me/89659639313)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/boogooz)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mataev.umar/)
+[![whatsapp](https://img.shields.io/badge/-WhatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/89659639313)
