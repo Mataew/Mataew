@@ -25,7 +25,18 @@ ___
 
 ___
 
+### Планирую изучить ###
+
+<p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript=white"/>  
+    <img alt="Vue" src="https://img.shields.io/badge/vue-green?style=for-the-badge&logo=vue=white"/>
+</p>
+
+___
+
 ### Свзяь со мной :
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/boogooz)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mataev.umar/)
-[![whatsapp](https://img.shields.io/badge/-WhatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/89659639313)
+[![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor=green)](https://t.me/boogooz)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/mataev.umar/)
+[![whatsapp](https://img.shields.io/badge/-WhatsApp-white?style=for-the-badge&logo=WhatsApp&logoColor=green)](https://wa.me/89659639313)
+
+
