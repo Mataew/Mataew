@@ -1,9 +1,12 @@
+## Мои проекты: ##
 
 WAYTUR - [ДЕМО](https://way-tur-mern.herokuapp.com/)
 
 CAR-TUNING - [ДЕМО](https://tuning-atelie.herokuapp.com/)
 
 ___
+
+![alt img](https://www.codewars.com/users/Mataew/badges/large)
 
 ### Свзяь со мной :
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor=green)](https://t.me/boogooz)
