@@ -1,14 +1,13 @@
-<!-- ## Мои проекты: ##
-
-WAYTUR - [ДЕМО](https://way-tur-mern.herokuapp.com/)
-
-CAR-TUNING - [ДЕМО](https://tuning-atelie.herokuapp.com/) -->
-![alt img](https://www.codewars.com/users/Mataew/badges/large)
+<!-- ![alt img](https://www.codewars.com/users/Mataew/badges/large)  -->
+<h3 align="center">Связь со мной:</h3>
+<br>
+<p align="center">
+  <a href="https://t.me/boogooz"><img src="https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor=green"></a>
+  <a href="https://www.instagram.com/mataev.umar"><img src="https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=pink"></a>
+  <a href="https://wa.me/89659639313"><img src="https://img.shields.io/badge/-WhatsApp-white?style=for-the-badge&logo=WhatsApp&logoColor=green"></a>
+</p>
 
 ___
 
-### Свзяь со мной :
-[![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor=green)](https://t.me/boogooz)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/mataev.umar/)
-[![whatsapp](https://img.shields.io/badge/-WhatsApp-white?style=for-the-badge&logo=WhatsApp&logoColor=green)](https://wa.me/89659639313)
- 
+### CodeWars
+<img src="https://www.codewars.com/users/Mataew/badges/large">
